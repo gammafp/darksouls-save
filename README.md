@@ -1,2 +1,2 @@
-# darksouls-save
-Datos guardados de dark souls
+# Dark Souls III Save Data
+Datos guardados de Dark Souls
